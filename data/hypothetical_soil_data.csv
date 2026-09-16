@@ -1,0 +1,13 @@
+Soil_ID,Location,pH,Nitrogen_mgkg,Phosphorus_mgkg,Potassium_mgkg,Soil_Moisture_pct,Organic_Carbon_pct
+1,Nellore,6.8,245,32,180,24.5,0.72
+2,Guntur,7.1,220,29,165,22.1,0.65
+3,Mysuru,6.5,210,34,175,21.8,0.68
+4,Warangal,7.4,190,27,155,19.5,0.61
+5,Thanjavur,6.9,255,36,190,26,0.75
+6,Nellore,6.7,238,31,178,23.8,0.7
+7,Guntur,7,225,,168,22.5,0.66
+8,Mysuru,6.4,205,33,172,21.2,0.67
+9,Warangal,68,188,26,150,18.9,0.6
+10,Thanjavur,6.8,260,37,195,26.4,0.77
+11,Nellore,6.9,250,33,185,25,0.73
+12,Guntur,7.2,218,30,162,21.9,0.64

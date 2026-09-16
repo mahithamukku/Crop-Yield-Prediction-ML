@@ -1,0 +1,16 @@
+Dataset,Column,Meaning,Data_Type
+Crop Yield,Crop,Crop type,Categorical
+Crop Yield,Area_Hectares,Cultivated area,Numeric
+Crop Yield,Production_Tonnes,Production,Numeric
+Crop Yield,Fertilizer_Kg,Fertilizer quantity,Numeric
+Crop Yield,Irrigation_Type,Irrigation method,Categorical
+Weather,Temperature_C,Temperature,Numeric
+Weather,Rainfall_mm,Rainfall,Numeric
+Weather,Relative_Humidity_pct,Relative humidity,Numeric
+Weather,Wind_Speed_kmh,Wind speed,Numeric
+Soil,pH,Soil acidity/alkalinity,Numeric
+Soil,Nitrogen_mgkg,Nitrogen,Numeric
+Soil,Phosphorus_mgkg,Phosphorus,Numeric
+Soil,Potassium_mgkg,Potassium,Numeric
+Soil,Soil_Moisture_pct,Soil moisture,Numeric
+Soil,Organic_Carbon_pct,Organic carbon,Numeric

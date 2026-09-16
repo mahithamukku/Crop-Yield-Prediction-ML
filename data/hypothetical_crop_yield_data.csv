@@ -1,0 +1,22 @@
+Record_ID,State,District,Crop,Season,Area_Hectares,Production_Tonnes,Fertilizer_Kg,Irrigation_Type,Year
+1,Andhra Pradesh,Nellore,Rice,Kharif,2.5,6.8,320,Canal,2023
+2,Andhra Pradesh,Guntur,Chilli,Rabi,1.8,4.2,250,Drip,2023
+3,Karnataka,Mysuru,Maize,Kharif,3,8.1,280,Borewell,2023
+4,Telangana,Warangal,Cotton,Kharif,4.2,7.5,360,Borewell,2023
+5,Tamil Nadu,Thanjavur,Rice,Kharif,2.2,6.1,300,Canal,2023
+6,Andhra Pradesh,Nellore,Rice,Kharif,2.7,7,335,Canal,2024
+7,Andhra Pradesh,Guntur,Chilli,Rabi,2,4.7,270,Drip,2024
+8,Karnataka,Mysuru,Maize,Kharif,7.8,8.5,295,Borewell,2024
+9,Telangana,Warangal,Cotton,Kharif,4,7.1,345,Borewell,2024
+10,Tamil Nadu,Thanjavur,Rice,Kharif,2.4,6.5,315,Canal,2024
+11,Andhra Pradesh,Nellore,Rice,Kharif,2.6,-2,,Canal,2025
+12,Andhra Pradesh,Guntur,Chilli,Rabi,1.9,4.4,260,Drip,2025
+13,Karnataka,Mysuru,Maize,Kharif,3.1,8.3,290,Borewell,2025
+14,Telangana,Warangal,Cotton,Kharif,4.1,7.4,355,Borewell,2025
+15,Tamil Nadu,Thanjavur,Rice,Kharif,2.3,6.3,310,Canal,2025
+16,Andhra Pradesh,Nellore,Rice,Kharif,2.8,7.2,340,Canal,2025
+17,Andhra Pradesh,Guntur,Chilli,Rabi,2.1,4.9,275,Drip,2025
+18,Karnataka,Mysuru,Maize,Kharif,3.3,8.7,305,Borewell,2025
+19,Telangana,Warangal,Cotton,Kharif,4.3,7.8,370,Borewell,2025
+20,Tamil Nadu,Thanjavur,Rice,Kharif,2.5,6.7,325,Canal,2025
+21,Tamil Nadu,Thanjavur,Rice,Kharif,2.5,6.7,325,Canal,2025
